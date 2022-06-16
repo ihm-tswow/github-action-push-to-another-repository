@@ -1,5 +1,7 @@
 # github-action-push-to-another-repository
 
+## NOTE: THIS ACTION IS FOR INTERNAL USE, DO NOT USE THIS ACTION
+
 When to use this GitHub Action? It can be used if you have a GitHub repository with a directory that you want to push to another GitHub repository using GitHub Actions (automated on push, for example). It is also useful if when using GitHub Actions, you generate certain files that you want to push to another GitHub repository. For example, if you have MarkDown files and want to generate HTML files, then push them into another repository.
 
 Flow:
